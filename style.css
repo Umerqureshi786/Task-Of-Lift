@@ -1,0 +1,86 @@
+#parentLift {
+    margin-top: 16rem;
+    margin-left: 26rem;
+    border: 4px solid rgb(228, 29, 29);
+    width: 6rem;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(148, 143, 143);
+    color: white;
+    padding: 2px;
+    
+    
+}
+
+
+
+#liftfive{
+    height: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid white; */
+
+
+}
+
+
+#liftfour{
+    height: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid white; */
+
+
+}
+
+
+#liftthree{
+    height: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid white; */
+
+}
+
+
+
+#lifttwo{
+    height: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid white; */
+
+}
+
+
+#liftone{
+    height: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid white; */
+
+}
+
+#groundfloor{
+    height: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid white; */
+
+}
+
+
+#floor-buttons{
+    /* border: 2px solid black; */
+    margin-top: 2rem;
+    margin-left: 24rem;
+    /* border: 1px solid white; */
+
+}
+
